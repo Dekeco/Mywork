@@ -1,0 +1,14 @@
+#navbar{
+    background-color: rgb(0, 0, 0) !important;
+}
+.navbar-brand{
+    color: #fff;
+}
+
+#navbar ul li a{
+    color: #fff;
+}
+#btn-btn{
+    background-color: #fff;
+    color: #000  ;
+}
